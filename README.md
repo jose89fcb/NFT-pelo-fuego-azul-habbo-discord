@@ -2,7 +2,7 @@
 
 Comandos a usar:
 <br>
-NFT pelo fuego rojo: !nft .iroke.
+NFT pelo fuego azul: !nft .iroke.
 
 
 <img src="https://i.imgur.com/S8xk1YX.png">
