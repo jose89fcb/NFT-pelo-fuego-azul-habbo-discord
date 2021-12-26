@@ -8,6 +8,8 @@ NFT pelo fuego azul: !nft .iroke.
 <img src="https://i.imgur.com/S8xk1YX.png">
 <br>
 PD: Si te pones el pelo calvo se vera mucho mejor xD
+<br>
+<br>
 
 Necesitas instalar python 3.7: https://www.python.org/downloads/release/python-370/
 
