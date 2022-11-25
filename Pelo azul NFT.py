@@ -66,7 +66,7 @@ async def nft(ctx,  *, keko):
     ###
     
     congelado = Image.open(r"imagen/peloazul.png").convert("RGBA") #imagen de la trozo
-    img1 = congelado.resize((64,200), Image.ANTIALIAS)#tamaño de congelado
+    img1 = congelado.resize((64,200), Image.ANTIALIAS)#tamaño del pelo
 
     
     img1.paste(img2,(0,45), mask = img2) #Posicion del keko 
